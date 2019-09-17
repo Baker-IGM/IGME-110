@@ -138,11 +138,10 @@ This week we’ll talk about the underlying concepts critical to understanding d
     -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
     -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
     -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
+    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
 
 ### Thursday (9/19)
 
--   **Readings**
-    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
 -   **[Homework](exercises/compositingExercise/compositingExercise)**
     -   In this homework you will make a magazine cover using Photoshop.
 
