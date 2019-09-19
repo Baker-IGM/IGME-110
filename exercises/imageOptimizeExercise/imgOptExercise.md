@@ -9,24 +9,24 @@ Before you begin, you'll need to download and extract the image files in [imageO
 
 ## Part 1: Color Models
 
-1.  From the archive you just downloaded, open the file Sunflower150.jpg in Photoshop.
+1.  From the archive you just downloaded, open the file `Sunflower150.jpg` in Photoshop.
 
-2.  Display the Channels Window (Window > Channels)
+2.  Display the Channels Window (`Window > Channels`)
 
-3.  View the Image > Mode menu. The current color mode of the image (RGB, PhotoShop’s default) has a check mark next to it in the mode menu. What menu items are grayed out? (Make a note of this.)
+3.  View the Image Mode Menu (`Image > Mode`). The current color mode of the image (`RGB`, PhotoShop’s default) has a check mark next to it in the Mode Menu. What menu items are grayed out? (Make a note of this.)
 
-4.  Switch the mode to CMYK. (If you get a warning, click Yes to proceed.) Note the changes in the Channels window.
-    View the Mode menu again. How have the options changed?
+4.  Switch the Mode to `CMYK`. (If you get a warning, click Yes to proceed.) Note the changes in the Channels Window.
+    View the Mode Menu again. How have the options changed?
 
-5.  Switch the mode to Grayscale (if prompted, agree to discarding color changes). What happens to the Channels window now? Look at the mode menu: what’s different?
+5.  Switch the Mode to `Grayscale` (if prompted, agree to discarding color changes). What happens to the Channels Window now? Look at the Mode Menu: what’s different?
 
-6.  You now have access to the Bitmap option in the Mode menu. This refers to the strictest definition of a bitmap, or a 1-bit color image, where each pixel in the image is mapped to one bit of information; on or off, white or black.
+6.  You now have access to the `Bitmap` option in the Mode Menu. This refers to the strictest definition of a bitmap, or a 1-bit color image, where each pixel in the image is mapped to one bit of information; on or off, white or black.
 
-7.  Change the mode to Bitmap. Set the output resolution to 96ppi and the diffusion method to Diffusion Dither. Try zooming in, so you can see the individual pixels.
+7.  Change the Mode to `Bitmap`. Set the output resolution to `96ppi` and the diffusion method to `Diffusion Dither`. Try zooming in, so you can see the individual pixels.
 
-8.  After viewing the results, select History from the Window menu. You will see a list of your modifications to the image. Return to the original ("Open") version. The changes you made are all still listed, and you can go back to any of them.
+8.  After viewing the results, open the History Window (`Window > History`). You will see a list of your modifications to the image. Return to the original `Open` version. The changes you made are all still listed, and you can go back to any of them.
 
-9.  In the bottom left corner of the window, next to the zoom percentage, you should see "Doc:2.41M/2.41M". The number on the left represents the printing size of the image--approximately the size of the saved, flattened file in Adobe Photoshop format. The number on the right indicates the file’s approximate size including layers and channels.
+9.  In the bottom left corner of the window, next to the zoom percentage, you should see `Doc:2.41M/2.41M`. The number on the left represents the printing size of the image--approximately the size of the saved, flattened file in Adobe Photoshop format. The number on the right indicates the file’s approximate size including layers and channels.
 
 10. Step forward through the history to look at the CMYK and then the Grayscale versions; how does the document size change for each of these?
 
