@@ -67,7 +67,7 @@ The three file types you'll be working with the most in interactive media are GI
 
 2.  Open the Save for Web Panel (`File > Export > Save for Web (Legacy)`), and choose `4-Up` on the tab at the top.
 
-3.  Change the zoom level to `200%`, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:
+3.  Change the Zoom Level to `200%`, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:
 ![photoshop zoom example](bijela1.png)
 
 4.  If the image in the top left corner isn't set to `Original`, select it and choose `Original` from the `Preset` menu in the top right corner of the panel.
@@ -76,26 +76,26 @@ The three file types you'll be working with the most in interactive media are GI
 
 6.  In the Windows file explorer, check the size of the file that you just created. Is it larger or smaller than the original JPG file?
 
-7.  In the bottom right corner of the panel, change the image size to `50%`. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).
+7.  In the bottom right corner of the panel, change the Zoom Level to `50%`. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).
 
 Close the original bijela-kava.jpg file.
 
 
 ## Part 4: GIF Compression
 
-To better understand how GIF compression works, we're going to work with the file Stripes.psd. Open that now.
+To better understand how GIF compression works, we're going to work with the file `Stripes.psd`. Open that now.
 
-1.  Change the Mode to Indexed Color, and use the default settings that are offered.
+1.  Change the Mode to `Indexed Color`, and use the default settings that are offered.
 
-2.  From the Image > Mode menu, select "Color Table..." to see the colors being used in the image.
+2.  Open the Color Table Panel (`Image > Mode > Color Table...`) to see the colors being used in the image.
 
-3.  Use File > Save As... and save the file as stripes1.gif. (If prompted, choose Normal rather than Interlaced.)
+3.  Use `File > Save As...` and save the file as `stripes1.gif`. (If prompted, choose `Normal` rather than `Interlaced`.)
 
-4.  Choose Image > Image Rotation > 90° CW. You should have horizontal rather than vertical stripes now. Save it as a GIF called stripes2.gif.
+4.  Choose `Image > Image Rotation > 90° Clockwise`. You should have horizontal rather than vertical stripes now. Save it as a GIF called `stripes2.gif`.
 
 **Without looking at the files on your computer**, can you predict which file (stripes1 or stripes2) is larger, based on our discussions about run length encoding and lossless compression in the lecture? Check to see if you were right!
 
 
 ## Deliverables
 
-Add your webcartoon.gif, bijela-quality, bijela-optimized, stripes1.gif and stripes2.gif files to a folder called `Image Optimization`. Zip that folder and add it to the `Exercise - Image Basics` Assignment on MyCourses.
+Add your `webcartoon.gif`, `bijela-quality`, `bijela-optimized`, `stripes1.gif` and `stripes2.gif` files to a folder called `Image Optimization`. Zip that folder and add it to the `Exercise - Image Basics` Assignment on MyCourses.
