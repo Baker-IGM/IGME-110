@@ -22,13 +22,13 @@ Before you begin, you'll need to download and extract the image files in [imageO
 
 6.  You now have access to the `Bitmap` option in the Mode Menu. This refers to the strictest definition of a bitmap, or a 1-bit color image, where each pixel in the image is mapped to one bit of information; on or off, white or black.
 
-7.  Change the Mode to `Bitmap`. Set the output resolution to `96ppi` and the diffusion method to `Diffusion Dither`. Try zooming in, so you can see the individual pixels.
+7.  Change the Mode to `Bitmap`. Set `Resolution - Output` to `96ppi` and `Method - Use` to `Diffusion Dither`. Try zooming in, so you can see the individual pixels.
 
 8.  After viewing the results, open the History Window (`Window > History`). You will see a list of your modifications to the image. Return to the original `Open` version. The changes you made are all still listed, and you can go back to any of them.
 
 9.  In the bottom left corner of the window, next to the zoom percentage, you should see `Doc:2.41M/2.41M`. The number on the left represents the printing size of the image--approximately the size of the saved, flattened file in Adobe Photoshop format. The number on the right indicates the file’s approximate size including layers and channels.
 
-10. Step forward through the history to look at the CMYK and then the Grayscale versions; how does the document size change for each of these?
+10. Step forward through the history to look at the `CMYK` and then the `Grayscale` versions; how does the document size change for each of these?
 
 11. Close this file. (You don’t need to save any changes.) We’re done with it.
 
@@ -39,22 +39,22 @@ In the previous section we changed color modes, which indirectly changed the col
 
 In this part of the exercise, you’ll be working more directly with palettes, particularly in Indexed Color mode, which restricts you to 256 or fewer colors in the palette (unlike RGB and CMYK, which have millions of available colors in their palettes).
 
-1.  Open the image cartoon.psd.
+1.  Open the image `cartoon.psd`.
 
-2.  Zoom in to at least 400%, and make sure you can see the blade of the axe.
+2.  Zoom in to at least `400%`, and make sure you can see the blade of the axe.
 
-3.  From the Image > Mode menu, select Indexed Color.
+3.  From the Image Mode Menu, select `Indexed Color`.
 
 4.  In the dialog box, try the following, noting the changes in the image (in particular, observe any changes to the gradients in the hammer):
-    -   Change the Dither from Diffusion to Pattern to None.
-    -   Change Color Depth to 32 colors. What happens to the axe blade?
+    -   Change the `Options - Dither` from `Diffusion` to `Pattern` to `None`.
+    -   Change `Palette - Colors` to `32`. What happens to the axe blade?
     -   Change the Dither back to Diffusion. What happens now? (Try zooming in so you can see the pixels more clearly.)
-    -   Change the palette to the Web Palette rather than Local. How many colors is it using now? Did that improve or reduce the quality of the image?
-    -   Try the Mac and Windows OS palettes, and observe the number of colors and impact on quality.
+    -   Change the `Palette` to the `Web Palette` rather than `Local`. How many colors is it using now? Did that improve or reduce the quality of the image?
+    -   Try the `System (Mac OS)` and `System (Windows)` palettes, and observe the number of colors and impact on quality.
 
-5.  Return to the Web palette, and experiment with the diffusion settings to get the best version of the image you can.
+5.  Return to the `Web` palette, and experiment with the `Options` to get the best version of the image you can.
 
-6.  Save the indexed color as a GIF called webcartoon.gif (the GIF format is called Compuserve GIF in the Save As menu, because of a patent on the format).
+6.  Save the indexed color as a GIF called `webcartoon.gif` (the GIF format is called Compuserve GIF in the Save As menu, because of a patent on the format).
 
 Close the original webcartoon.psd file.
 
