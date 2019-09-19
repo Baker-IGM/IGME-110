@@ -63,20 +63,20 @@ Close the original webcartoon.psd file.
 
 The three file types you'll be working with the most in interactive media are GIF, JPEG and PNG. This was covered in the readings for this week, but you can also read through the [“Image File Formats” Wikipedia article](https://en.wikipedia.org/wiki/Image_file_formats) for a review of how they differ.
 
-1.  Open the bijela_kava.jpg file. (This is an unmodified photo taken with a Moto G5 phone.
+1.  Open the `bijela_kava.jpg` file. (This is an unmodified photo taken with a Moto G5 phone.
 
-2.  Select File->Export->Save for Web (Legacy), and choose “4-Up” on the tab at the top.
+2.  Open the Save for Web Panel (`File > Export > Save for Web (Legacy)`), and choose `4-Up` on the tab at the top.
 
-3.  Change the zoom level to 200%, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:
+3.  Change the zoom level to `200%`, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:
 ![photoshop zoom example](bijela1.png)
 
-4.  If the image in the top left corner isn't set to "Original", select it and choose "Original" from the presets menu in the top right corner of the panel.
+4.  If the image in the top left corner isn't set to `Original`, select it and choose `Original` from the `Preset` menu in the top right corner of the panel.
 
-5.  For the other three versions of the image, experiment with GIF, JPEG, and PNG settings. Pay particular attention to the effect each setting has on the side of the coffee cup. Also trying zooming out to see the effect on the color quality of the image as a whole. Which version gives you the best approximation of the original image? Save that one as bijela-quality (using whatever the appropriate file extension is).
+5.  For the other three versions of the image, experiment with `GIF`, `JPEG`, and `PNG` settings. Pay particular attention to the effect each setting has on the side of the coffee cup. Also trying zooming out to see the effect on the color quality of the image as a whole. Which version gives you the best approximation of the original image? Save that one as bijela-quality (using whatever the appropriate file extension is).
 
 6.  In the Windows file explorer, check the size of the file that you just created. Is it larger or smaller than the original JPG file?
 
-7.  In the bottom right corner of the panel, change the image size to 50%. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).
+7.  In the bottom right corner of the panel, change the image size to `50%`. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).
 
 Close the original bijela-kava.jpg file.
 
