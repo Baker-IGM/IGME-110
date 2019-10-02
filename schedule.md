@@ -196,7 +196,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
--   **Exercise**
+-   **[Exercise](exercises/positioningExercise/cssPositioningExercise)**
     -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 {% include top.html id="week8" content=page.week8 %}
@@ -306,6 +306,7 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
     -   [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
     -   [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html)
     -   [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
+    -   [How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork](https://youtu.be/8S0FDjFBj8o)
 
 {% include top.html id="week15" content=page.week15 %}
 
