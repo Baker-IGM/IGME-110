@@ -198,7 +198,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
     -   [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 -   **[Homework](exercises/markupExercise/basicMarkupExercise)**
-    -   You'll work through the MDN Introduction to HTML guide, and complete the two assessment projects.
+    -   You'll work through the MDN Introduction to HTML guide, and complete the first assessment projects.
     -   **Due by class 10/17**
 
 {% include top.html id="week8" content=page.week8 %}
