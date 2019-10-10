@@ -10,4 +10,4 @@ Right-click on [this link](/letter-text.html) to download the HTML file you'll n
 
 ## Deliverables
 
-Upload your completed HTML document to the myCourses Assignments dropbox by 3pm on Thursday.
+Upload your completed HTML documents to the myCourses Assignments dropbox by class on Thursday.
