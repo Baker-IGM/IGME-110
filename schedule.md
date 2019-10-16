@@ -212,16 +212,15 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
     -   [MDN: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
--   **[Exercise](/exercises/designExercise/designExercise)**
+-   **[Exercise](/exercises/peerCritiqueExercise/webProjectCritique)**
 
     -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
     -   All you need to provide is a screenshot or exported image.
-    -   In class, we'll do critiques and then start on implementing the design using Flexbox.
+    -   In class, we'll do critiques and then start on CSS Homework.
 
 -   **[Homework](exercises/cssExercise/cssExercise)**
-    -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
-    -   **Due by class 10/24**
+    -   **Due by class 10/22**
 
 {% include top.html id="week9" content=page.week9 %}
 
