@@ -212,7 +212,7 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
     -   [MDN: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
--   **[Exercise](/exercises/peerCritiqueExercise/webProjectCritique)**
+-   **[Exercise](exercises/peerCritiqueExercise/webProjectCritique)**
 
     -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
