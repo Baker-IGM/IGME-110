@@ -189,6 +189,8 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
+    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+        -   A bit out of date, but the concepts are sound.
 
 ### Thursday (10/10)
 
@@ -224,21 +226,22 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
 
 {% include top.html id="week9" content=page.week9 %}
 
-Once you’ve created your web pages, how do you publish them? We’ll talk about how the Internet and web servers work.
+Once you’ve created your web pages, how do you publish them? We’ll talk about how the Internet and web servers work. You will need to have set up your GitHub account to be able to complete the in-class exercise!
 
 ### Tuesday (10/22)
 
 -   **Readings**
-    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-        -   A bit out of date, but the concepts are sound.
+    -   [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+    -   [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+    -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
+    -   [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 -   **Exercise**
--   **Homework**
 
 ### Thursday (10/24)
 
 -   **Readings**
+    -   [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
 -   **Exercise**
--   **Homework**
 
 {% include top.html id="week10" content=page.week10 %}
 
