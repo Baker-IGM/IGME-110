@@ -18,9 +18,9 @@ On your computer (or on a USB drive) create a folder called `RIT Web`. Inside th
 
 ## Relative References to Other Directories
 
-As your web site gets bigger, keeping all your files in the same directory makes it harder to keep them organized. Web developers typically have different directories for different parts of their site, and also often keep images in a separate directory. You created a media folder in your www directory, and that’s where we’re going to put the images you use on your site.
+As your web site gets bigger, keeping all your files in the same directory makes it harder to keep them organized. Web developers typically have different directories for different parts of their site, and also often keep images in a separate directory. You created a `media` folder in your `igme110` directory, and that’s where we’re going to put the images you use on your site.
 
-On your computer, open the igme110 folder you created. Move your image file into the media folder. Your structure should look like this:
+On your computer, open the `igme110` folder you created. Move your image file into the `media` folder. Your structure should look like this:
 
 ![index.html with image added](110homepage-filestructure.png)
 
@@ -54,9 +54,7 @@ The pane on the bottom left shows the files on your computer’s hard drive. In 
 
 In the pane on the left side (local site files), you’ll need to find the directory that you created at the beginning of this exercise. If you put it on a thumb drive, the drive should show up in the Volumes directory. If you put it on the Desktop, it should be in the student directory inside of the Users directory. You want to find your www folder and open it, so that you can see the igme110 and media folders in the left pane. (If you’re using Mac, there may also be a hidden file called .DS_Store, which you can ignore—it’s a Mac system file that is hidden.) If you have trouble finding your files, ask for help.
 
-In the pane on the right side (server files), double click on the www directory. You should see the 110 directory that you created in Tuesday’s exercise. Leave that alone until you’ve gotten credit for the exercise!
-
-Once you’ve got the www directory on your local computer on the left side, and your www directory on banjo on the right side, you’re going to drag the igme110 directory from the www folder on the left (your computer) to the www folder on the right (the server). This will copy the folder and its contents to the web server. The file list on the right side should update to show the the new directories.
+In the pane on the right side (server files), double click on the www directory. Once you’ve got the www directory on your local computer on the left side, and your www directory on banjo on the right side, you’re going to drag the igme110 directory from the www folder on the left (your computer) to the www folder on the right (the server). This will copy the folder and its contents to the web server. The file list on the right side should update to show the the new directories.
 
 Now you need to test the files on the web server, to see if they’re accessible. Use a browser to go to `http://people.rit.edu/youruserid/igme110` (substituting your RIT ID for _youruserid_)
 
