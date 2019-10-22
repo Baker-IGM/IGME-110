@@ -11,12 +11,12 @@
   week7: "Week 7 (10/7): Understanding the Web"
   week8: "Week 8 (10/14): Web Layout"
   week9: "Week 9 (10/21): Web Publishing & Version Control"
-  week10: "Week 10 (10/28): Accessibility"
-  week11: "Week 11 (11/4): Creating Digital Audio"
+  week10: "Week 10 (10/28): Creating Digital Audio"
+  week11: "Week 11 (11/4): Accessibility"
   week12: "Week 12 (11/11): Creating Digital Video"
   week13: "Week 13 (11/18): Film Language"
   week14: "Week 14 (11/25): Presentation Skills"
-  week15: "Week 15 (12/2): Social & Ethical Issues"
+  week15: "Week 15 (12/2): Media is the Message"
 ---
 
 # Schedule of Topics
@@ -236,7 +236,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
     -   [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 -   **[Exercise](exercises/ftpExercise/basicMarkupExercise)**
-    - Due by 10/22 11:59 pm
+    -   Due by 10/22 11:59 pm
 
 ### Thursday (10/24)
 
@@ -249,20 +249,6 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/29)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
-
-### Thursday (10/31)
-
--   **Readings**
--   **Exercise**
--   **Homework**
-
-{% include top.html id="week11" content=page.week11 %}
-
-### Tuesday (11/5)
-
--   **Readings**
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
@@ -271,18 +257,26 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
 
-### Thursday (11/7)
+### Thursday (10/31)
 
 -   **[Exercise](exercises/audioExercise/audioExercise)**
     -   In today's exercise you will add audio to a video.
+
+{% include top.html id="week11" content=page.week11 %}
+
+### Tuesday (11/5)
+
+-   **Readings**
+
+### Thursday (11/7)
+
+-   **Exercise**
 
 {% include top.html id="week12" content=page.week12 %}
 
 ### Tuesday (11/12)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
 
 ### Thursday (11/14)
 
@@ -296,13 +290,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/19)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
 
 ### Thursday (11/21)
 
--   **Readings**
--   **Exercise**
 -   **Homework**
 
 {% include top.html id="week14" content=page.week14 %}
@@ -317,15 +307,14 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
     -   [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
     -   [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html)
     -   [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
-    -   [How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork](https://youtu.be/8S0FDjFBj8o)
+    -   [How to sound smart in your TEDx Talk](https://youtu.be/8S0FDjFBj8o)
 
 {% include top.html id="week15" content=page.week15 %}
 
 ### Tuesday (12/3)
 
 -   **Readings**
-    -   [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps)
 
 ### Thursday (12/5)
 
--   **[Exercise](exercises/socialmediaExercise/onlinePresence)**
+-   **Exercise**
