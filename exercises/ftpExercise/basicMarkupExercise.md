@@ -79,4 +79,4 @@ Once your page has displayed properly, view the source in the web browser (if yo
 
 ## Due Date
 
-You must have this exercise completed by the end of class today. I will be checking the following url to make sure that your page loads properly: `http://people.rit.edu/{youruserid}/igme110`. Double check that it works or you will receive no credit.
+You must have this exercise completed by midnight tonight. I will be checking the following url to make sure that your page loads properly: `http://people.rit.edu/{youruserid}/igme110`. Double check that it works or you will receive no credit.
