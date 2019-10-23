@@ -11,8 +11,8 @@
   week7: "Week 7 (10/7): Understanding the Web"
   week8: "Week 8 (10/14): Web Layout"
   week9: "Week 9 (10/21): Web Publishing & Version Control"
-  week10: "Week 10 (10/28): Creating Digital Audio"
-  week11: "Week 11 (11/4): Accessibility"
+  week10: "Week 10 (10/28): Accessibility"
+  week11: "Week 11 (11/4): Creating Digital Audio"
   week12: "Week 12 (11/11): Creating Digital Video"
   week13: "Week 13 (11/18): Film Language"
   week14: "Week 14 (11/25): Presentation Skills"
@@ -249,6 +249,21 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/29)
 
 -   **Readings**
+    -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
+    -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
+    -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
+
+### Thursday (10/31)
+
+-   **[Website Project Workday](projects/Website)**
+    - Due 11/4 by 11:59 pm
+
+{% include top.html id="week11" content=page.week11 %}
+
+### Tuesday (11/5)
+
+-   **Readings**
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
@@ -257,20 +272,10 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
 
-### Thursday (10/31)
+### Thursday (11/7)
 
 -   **[Exercise](exercises/audioExercise/audioExercise)**
     -   In today's exercise you will add audio to a video.
-
-{% include top.html id="week11" content=page.week11 %}
-
-### Tuesday (11/5)
-
--   **Readings**
-
-### Thursday (11/7)
-
--   **Exercise**
 
 {% include top.html id="week12" content=page.week12 %}
 
