@@ -17,6 +17,7 @@
   week13: "Week 13 (11/18): Film Language"
   week14: "Week 14 (11/25): Presentation Skills"
   week15: "Week 15 (12/2): Media is the Message"
+  final: "Finals Week (12/13): Final Presentations"
 ---
 
 # Schedule of Topics
@@ -38,7 +39,8 @@
 -   [{{ page.week13 }}](#week13)
 -   [{{ page.week14 }}](#week14)
 -   [{{ page.week15 }}](#week15)
--   [Finals Week (TBA): Final Presentations](projects/Presentation)
+- [{{page.final}}](#final)
+-   [Finals Week (12/13): Final Presentations](projects/Presentation)
 
 {% include top.html id="week1" content=page.week1 %}
 
@@ -257,7 +259,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Thursday (10/31)
 
 -   **[Website Project Workday](projects/Website)**
-    - Due 11/4 by 11:59 pm
+    -   Due 11/4 by 11:59 pm
 
 {% include top.html id="week11" content=page.week11 %}
 
@@ -298,7 +300,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 ### Thursday (11/21)
 
--   **Homework**
+-   **Exercise**
 
 {% include top.html id="week14" content=page.week14 %}
 
@@ -322,4 +324,18 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 
 ### Thursday (12/5)
 
--   **Exercise**
+-   **Work Day**
+
+{% include top.html id="final" content=page.final %}
+
+### [Final Presentation](projects/Presentation)
+
+![Presentation](http://carbonpig.com/wp-content/uploads/2018/08/Top-tips-for-effective-presentations-e1535692186850.jpeg)
+
+-   When
+    -   12/13
+    -   1:30 PM - 4:00 PM
+-   Where
+    -   Orange Hall(ORN)
+    -   1370
+    -   Where we have class
