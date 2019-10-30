@@ -268,7 +268,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
 -   **Homework**
-    -   [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
+    -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
 
