@@ -39,8 +39,7 @@
 -   [{{ page.week13 }}](#week13)
 -   [{{ page.week14 }}](#week14)
 -   [{{ page.week15 }}](#week15)
-- [{{page.final}}](#final)
--   [Finals Week (12/13): Final Presentations](projects/Presentation)
+-   [{{page.final}}](#final)
 
 {% include top.html id="week1" content=page.week1 %}
 
