@@ -26,20 +26,11 @@ If you will not be presenting in person, you must either (a) attach your narrati
 
 ## Grading Rubric
 
-| Criteria                    | Points |
-| --------------------------- | ------ |
-| Topic 1                     | 1      |
-| Topic 2                     | 1      |
-| Topic 3                     | 1      |
-| Topic 4                     | 1      |
-| Topic 5                     | 1      |
-| Topic 6                     | 1      |
-| Topic 7                     | 1      |
-| Topic 8                     | 1      |
-| Topic 9                     | 1      |
-| Topic 10                    | 1      |
-| Audio smooth & well-paced   | 2      |
-| Auto-advance works properly | 2      |
-| Good slide design           | 2      |
-| Consistent slide design     | 2      |
-| Coherent narrative          | 2      |
+| Criteria                    | Points | Describtion                                                                                                                       |
+| --------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Topics Coverd               | 10     | How many topics did you cover?                                                                                                    |
+| Audio smooth & well-paced   | 2      | Can someone easily understand what you are say?<br>Are there any obvious cuts in the audio?<br>**Only applies to prerecorded video.** |
+| Auto-advance works properly | 2      | Do the slides auto advvance?<br>All or nothing.<br>**Only applies to live presentation.**                                             |
+| Good slide design           | 4      | Is there a clear visual hirarchy?<br>Is text easy to read?                                                                        |
+| Consistent slide design     | 2      | Do all the slides clearly belong together?                                                                                        |
+| Coherent narrative          | 2      | Are the slides ordered in a way that makes sense?                                                                                 |
