@@ -285,11 +285,10 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/12)
 
 -   **Readings**
+    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
 
 ### Thursday (11/14)
 
--   **Readings**
-    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
 -   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be creating a trailer for some form of media.
 

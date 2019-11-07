@@ -28,6 +28,4 @@ To create a single video file containing your new audio, you will need to "rende
 
 ## Submission
 
-
-[HTML Template](index.html)
-Upload your rendered video file to your GitHub repo to 'Audio/index.html'. We will be watching everyone's videos Friday and giving critique.
+When you are done upload your rendered video and the sound effects you made onto your GitHub repo we made in class. Make a copy of this [HTML Template](indexs.html) and update all of its contents. When you are done upload that file to your GitHub repo. Get a link to that page and upload it to the `Exercise: Audio` dropbox on myCourses.
