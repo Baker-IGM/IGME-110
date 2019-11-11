@@ -285,7 +285,8 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/12)
 
 -   **Readings**
-    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
+    -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
+    -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
 
 ### Thursday (11/14)
 
@@ -297,6 +298,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/19)
 
 -   **Readings**
+    - [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
+    - [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
+    - [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
 ### Thursday (11/21)
 
