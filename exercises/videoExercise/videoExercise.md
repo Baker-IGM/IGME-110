@@ -1,6 +1,6 @@
 # Digital Video Editing Exercise
 
-Using your video editing software of choice, make a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise. You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
+Using our video editing software of choice, make a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise ([Pexels](https://videos.pexels.com/) is still great). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
 
 ## Examples
 
@@ -29,6 +29,6 @@ You will need to upload a page to your GitHub repo at `igme110/video/index.html`
 -   A rendered version of your trailer (see above for details on rendering in Premiere).
 -   A screenshot of your project timeline in Premiere, to show that you actually did your own edits.
 -   A text document explaining your intent / thought process in creating the video (3 sentences or less).
--   Links to all sources used in the video (anything you didn't make).
+-   Links to all assets used in the video.
 
 You can find a sample template [here](index.html)

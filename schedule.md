@@ -287,12 +287,12 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 -   **Readings**
     -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
-    - [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
+    -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
 ### Thursday (11/14)
 
 -   **[Exercise](exercises/videoExercise/videoExercise)**
-    -   In this exercise, you will be creating a trailer for some form of media.
+    -   In this exercise, you will be mashing two different video clips into one coherent story.
 
 {% include top.html id="week13" content=page.week13 %}
 
