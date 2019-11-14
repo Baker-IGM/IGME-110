@@ -1,6 +1,6 @@
 # Digital Video Editing Exercise
 
-Using our video editing software of choice, make a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise. You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
+Using our video editing software of choice, make a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise ([Pexels](https://videos.pexels.com/) is still great). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
 
 ## Examples
 
