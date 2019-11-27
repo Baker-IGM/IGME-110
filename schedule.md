@@ -325,7 +325,10 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 
 ### Tuesday (12/3)
 
--   **Readings**
+-   **Upperclassmen Panel**
+    -   Several upperclassmen will be running the class today
+    -   They will each give a short talk
+    -   Throughout you are free to ask any questions you might have (I highly recommend you do)
 
 ### Thursday (12/5)
 
