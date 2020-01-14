@@ -2,22 +2,21 @@
   title: Schedule
   nav: schedule
 
-  week1: "Week 1 (8/26): Course Overview & Communication Tools"
-  week2: "Week 2 (9/2): Finding and Evaluating Information"
-  week3: "Week 3 (9/9): Intellectual Property"
-  week4: "Week 4 (9/16): Creating Digital Images"
-  week5: "Week 5 (9/23): Visual Design & Typography"
-  week6: "Week 6 (9/30): Critique"
-  week7: "Week 7 (10/7): Understanding the Web"
-  week8: "Week 8 (10/14): Web Layout"
-  week9: "Week 9 (10/21): Web Publishing & Version Control"
-  week10: "Week 10 (10/28): Accessibility"
-  week11: "Week 11 (11/4): Creating Digital Audio"
-  week12: "Week 12 (11/11): Creating Digital Video"
-  week13: "Week 13 (11/18): Film Language"
-  week14: "Week 14 (11/25): Presentation Skills"
-  week15: "Week 15 (12/2): Media is the Message"
-  final: "Finals Week (12/13): Final Presentations"
+  week1: "Week 1 (1/13): Course Overview & Communication Tools"
+  week2: "Week 2 (1/20): Finding and Evaluating Information"
+  week3: "Week 3 (1/27): Intellectual Property"
+  week4: "Week 4 (2/3): Digital Images"
+  week5: "Week 5 (2/10): Visual Design"
+  week6: "Week 6 (2/17): Layout & Composition"
+  week7: "Week 7 (2/24): Critique"
+  week8: "Week 8 (3/2): TBA"
+  week9: "Week 9 (3/16): Digital Audio"
+  week10: "Week 10 (3/23): Digital Video"
+  week11: "Week 11 (3/30): Film Editing"
+  week12: "Week 12 (4/6): Accessibility"
+  week13: "Week 13 (4/13): Media is the Message"
+  week14: "Week 14 (4/20): Conclusions"
+  final: "Finals Week (5/5): Final Presentations"
 ---
 
 # Schedule of Topics
@@ -38,14 +37,13 @@
 -   [{{ page.week12 }}](#week12)
 -   [{{ page.week13 }}](#week13)
 -   [{{ page.week14 }}](#week14)
--   [{{ page.week15 }}](#week15)
 -   [{{page.final}}](#final)
 
 {% include top.html id="week1" content=page.week1 %}
 
 On Tuesday, we'll review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including Discord, and Google Docs.
 
-### Tuesday (8/27)
+### Tuesday (1/14)
 
 -   **Readings**
 
@@ -56,13 +54,13 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
     -   Set up your Discord nickname and a post to the #introductions channel.
     -   **Due by Thursday's class**
 
-### Thursday (8/29)
+### Thursday (1/16)
 
 -   **Readings**
 
     -   [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
     -   [Discord - Getting Started](https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started)
-    -   [Use Google Docs to Collaborate on CLass Note Taking](https://www.huffingtonpost.com/hack-college/use-google-docs-to-collab_b_844192.html)
+    -   [Use Google Docs to Collaborate on Class Note Taking](https://www.huffingtonpost.com/hack-college/use-google-docs-to-collab_b_844192.html)
 
 -   **[In-Class Exercise](exercises/commExercise/commExercise)**
 
@@ -77,7 +75,7 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
 
 This week we'll be talking about information--how to find it, and how to evaluate its quality and reliability.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, including library resources you can use for your [research paper assignment](projects/Paper).
 
-### Tuesday (9/3)
+### Tuesday (1/21)
 
 -   **Readings**
 
@@ -90,7 +88,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
     -   Play an web game to test how well you can determine real from fake articles.
 
-### Thursday (9/5)
+### Thursday (1/23)
 
 -   **Readings**
 
@@ -110,7 +108,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws.
 
-### Tuesday (9/10)
+### Tuesday (1/28)
 
 -   **Readings**
     -   [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html)
@@ -122,7 +120,7 @@ As a creative professional, you need to be familiar with the laws governing the 
     -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
     -   **Due by class on 9/17**
 
-### Thursday (9/12)
+### Thursday (1/30)
 
 -   **[Exercise](exercises/paperReview/paperReview)**
     -   You will review each other's paper first draft.
@@ -133,14 +131,14 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats.
 
-### Tuesday (9/17)
+### Tuesday (2/4)
 
 -   **Readings**
     -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
     -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
     -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
-### Thursday (9/19)
+### Thursday (2/6)
 
 -   **Readings**
     -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
@@ -150,14 +148,14 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter! On Tuesday, we’ll talk about visual design concepts, and on Thursday we'll focus on digital typography.
 
-### Tuesday (9/24)
+### Tuesday (2/11)
 
 -   **Readings**
     -   [Pretty Pixels—The importance of visuals in game design](https://medium.com/the-cube/pretty-pixel-the-importance-of-visuals-in-game-design-5f3ae148a41e)
     -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
     -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
 
-### Thursday (9/26)
+### Thursday (2/13)
 
 -   **Readings**
     -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
@@ -170,13 +168,13 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 {% include top.html id="week6" content=page.week6 %}
 
-### Tuesday (10/1)
+### Tuesday (2/18)
 
 -   **Readings**
     -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
     -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 
-### Thursday (10/3)
+### Thursday (2/20)
 
 -   **[Exercise](exercises/critiqueExercise/designCritiqueExercise)**
 
@@ -186,14 +184,14 @@ This week we’ll talk about how the web differs from other types of media, and 
 
 For the Getting Started with the Web articles in this week's readings, make sure you work through the hands-on exercises!
 
-### Tuesday (10/8)
+### Tuesday (2/25)
 
 -   **Readings**
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
     -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
         -   A bit out of date, but the concepts are sound.
 
-### Thursday (10/10)
+### Thursday (2/27)
 
 -   **Readings**
 
@@ -208,12 +206,13 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 We will not have class on Tuesday of this week, because it is a reading day. Make sure you do the readings and exercises before Thursday's class; I'll review the concepts on Thursday, but most of the class will be spent creating an initial layout for your web project.
 
-### Thursday (10/17)
+### Tuesday (3/3)
 
 -   **Readings**
 
-    -   [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-    -   [MDN: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+### Thursday (3/5)
+
+-   **Readings**
 
 -   **[Exercise](exercises/peerCritiqueExercise/webProjectCritique)**
 
@@ -229,7 +228,7 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
 
 Once you’ve created your web pages, how do you publish them? We’ll talk about how the Internet and web servers work. You will need to have set up your GitHub account to be able to complete the in-class exercise!
 
-### Tuesday (10/22)
+### Tuesday (3/17)
 
 -   **Readings**
     -   [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
@@ -239,7 +238,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 -   **[Exercise](exercises/ftpExercise/basicMarkupExercise)**
     -   Due by 10/22 11:59 pm
 
-### Thursday (10/24)
+### Thursday (3/19)
 
 -   **Readings**
     -   [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
@@ -247,7 +246,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 {% include top.html id="week10" content=page.week10 %}
 
-### Tuesday (10/29)
+### Tuesday (3/24)
 
 -   **Readings**
     -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
@@ -255,21 +254,21 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
     -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
 
-### Thursday (10/31)
+### Thursday (3/26)
 
 -   **[Website Project Workday](projects/Website)**
     -   Due 11/4 by 11:59 pm
 
 {% include top.html id="week11" content=page.week11 %}
 
-### Tuesday (11/5)
+### Tuesday (3/31)
 
 -   **Readings**
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
 
-### Thursday (11/7)
+### Thursday (4/2)
 
 -   **Readings**
     -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
@@ -282,28 +281,28 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 {% include top.html id="week12" content=page.week12 %}
 
-### Tuesday (11/12)
+### Tuesday (4/7)
 
 -   **Readings**
     -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
     -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
-### Thursday (11/14)
+### Thursday (4/9)
 
 -   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be mashing two different video clips into one coherent story.
 
 {% include top.html id="week13" content=page.week13 %}
 
-### Tuesday (11/19)
+### Tuesday (4/14)
 
 -   **Readings**
     -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
     -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
     -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
-### Thursday (11/21)
+### Thursday (4/16)
 
 -   **Exercise**
 
@@ -313,24 +312,21 @@ This week we’ll discuss the importance of good presentation skills, and look a
 
 If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own.
 
-### Tuesday (11/26)
+### Tuesday (4/21)
 
 -   **Readings**
+
     -   [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
     -   [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html)
     -   [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
     -   [How to sound smart in your TEDx Talk](https://youtu.be/8S0FDjFBj8o)
-
-{% include top.html id="week15" content=page.week15 %}
-
-### Tuesday (12/3)
 
 -   **Upperclassmen Panel**
     -   Several upperclassmen will be running the class today
     -   They will each give a short talk
     -   Throughout you are free to ask any questions you might have (I highly recommend you do)
 
-### Thursday (12/5)
+### Thursday (4/23)
 
 -   **Work Day**
     -   Today is a workday to work on your final presentation.
@@ -342,9 +338,9 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 ![Presentation](http://carbonpig.com/wp-content/uploads/2018/08/Top-tips-for-effective-presentations-e1535692186850.jpeg)
 
 -   When
-    -   12/13
-    -   1:30 PM - 4:00 PM
+    -   5/5
+    -   10:45 AM - 1:15 PM
 -   Where
     -   Orange Hall(ORN)
-    -   1370
+    -   1380
     -   Where we have class
