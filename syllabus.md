@@ -5,11 +5,22 @@
 
 # Course Syllabus
 
-### Section 04, Fall 2191
+### Section 01, Spring 2195
 
 **_Please read this document carefully and bookmark it for future reference. It provides the context and structure which will guide all aspects of this course._**
 
 **_This is NOT the same syllabus as other sections of 110. While most elements of the course will be very similar, they will not be identical._**
+
+## Instructor and Class Details
+
+-   Professor: Eric Baker
+    -   Office: 2569 Golisano Hall
+    -   Email: eabigm@rit.edu
+    -   Office hours:
+        -   Tuesdays & Thursdays 9:00am - 11a:00am
+
+-   Class Time/Location:
+    -   Tuesdays & Thursdays, 11:00am - 12:15pm, 1380 Orange Hall
 
 ## Course Catalog Description
 
