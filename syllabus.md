@@ -54,15 +54,15 @@ These are brief descriptions of each of the assignments. Follow the links to see
 
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise.
 
-### [Research Paper (20% of final grade)](projects/Paper.md)
+### [Research Paper (15% of final grade)](projects/Paper.md)
 
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
-### [Web Site (20% of final grade)](projects/Website.md)
+### Product Box (15% of final grade)
 
-To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.
+### Video Trailer (15% of final grade)
 
-### [Presentation (20% of final grade)](/projects/Presentation.md)
+### [Presentation (15% of final grade)](/projects/Presentation.md)
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
