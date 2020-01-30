@@ -5,16 +5,18 @@ In this assignment, you will select a topic related to interactive media, identi
 Here are some examples of the types of arguments you could make:
 
 -   "Photoshop is the most important tool for interactive designers to learn."
--   "[Book/Movie Title] was hugely influential in the development of XXX media."
--   "[Technology Type] will be the next big thing in interactive media."
+-   "`Book/Movie Title` was hugely influential in the development of XXX media."
+-   "`Technology Type` will be the next big thing in interactive media."
 
-Be sure to select an appropriate topic; one where you can find sufficient resources--online and/or offline--and, ideally. If you're having trouble thinking of a suitable topic, feel free to contact me for help.
+Be sure to select an appropriate topic; one where you can find sufficient resources--online and/or offline--and, ideally, one with some originality. If you're having trouble thinking of a suitable topic, feel free to contact me for help.
 
 Write the paper in your own words. Any external sources that you quote should be clearly attributed. If you plagiarize any of the paper, you will fail not only this assignment, but the entire course. We'll be talking about what does and does not constitute plagiarism in class.
 
 Be creative, and (despite what you may have been told in high school) don't be afraid to be personal. You do not need to write a highly formal paper. Writing in the first person is encouraged. Explain why you chose this topic--what meaning and importance does it have for you? What did you find out in doing your research that you didn't know before? Don't just summarize the facts that you find...that increases your risk of plagiarism, and decreases your chances of a high grade. Instead, do the research, then put the books and printouts away, and think about how you'd explain to your best friend or your parent what's important or compelling about the topic you've chosen. Make me care about the topic.
 
-You must, however, support your opinions and assertions with citations to valid external sources. You should provide the source for any quotations or factual information (even if it's not a quotation) that you include in your paper. Your bibliography must include a _minimum_ of eight sources, with at least four of those sources being edited, respected sources (books, journals, magazines, newspapers, well-edited websites). You may not use reference/tertiary sources (such as encyclopedias or dictionaries)--while it's fine to use them for your research, you should check the original sources they draw from, and use those for your citations. When in doubt about a source, ask me! You will also need to provide a brief (no more than one paragraph) annotation for each reference, explaining how it was useful for your paper.
+You must, however, support your opinions and assertions with citations to valid external sources. You should provide the source for any quotations or factual information (even if it's not a quotation) that you include in your paper. Your bibliography must include a **minimum** of **four** sources, with at least **two** of those sources being edited, respected sources (books, journals, magazines, newspapers, well-edited websites). You may not use reference/tertiary sources (such as encyclopedias or dictionaries)--while it's fine to use them for your research, you should check the original sources they draw from, and use those for your citations. When in doubt about a source, ask me! You will also need to provide a brief (no more than one paragraph) annotation for each reference, explaining how it was useful for your paper.
+
+## Resources
 
 Here are some resources that may be helpful as you work on your paper:
 
@@ -27,17 +29,26 @@ Here are some resources that may be helpful as you work on your paper:
 
 There are several separate deliverables for this paper, because I want to make sure you don't wait to start it until the night before it's due!
 
-### Topic Idea: Due by {{ site.classStartTime }} on Tuesday, September 3rd
+### Topic Idea: Due by {{ site.classStartTime }} on Tuesday, January 21st
 
-A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned on myCourses in the assignments section. This is not a graded assignment, but if you do not turn it in, you'll lose **15% off your final paper grade**. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback as soon as possible.
+A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned on myCourses in the assignments section. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback as soon as possible.
 
-### First Draft: Uploaded to Google Drive by {{ site.classStartTime }} on Thursday, September 12st
+### First Draft: Uploaded to Google Drive by {{ site.classStartTime }} on Thursday, January 30th
 
-Your first draft of the paper should have **at least eight sources referenced, and have at least 900 words of text**. (The more finished the paper is, the more useful the feedback you receive will be). You'll be peer reviewing each others' first drafts in class on Thursday. This is a good way to see examples of other students’ approaches to the assignment, as well as to get peer feedback before turning in your final paper. While this assignment will not be graded, if you don’t upload an acceptable draft and participate in the peer review process, you’ll **lose 10% of your final paper grade** (5% for the draft, 5% for the peer reviews).
+Your first draft of the paper should have:
 
-### Final Paper: Due before 11:30pm on Sunday, September 22th
+-   Intro
+-   Conclusion
+-   Bibliography (`with four sources`)
+-   Outline of the Paper
 
-The final version of your paper is due by 11:59pm on the date above. Upload an electronic copy of the paper in the myCourses dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.
+The more finished the paper is, the more useful the feedback you receive will be.
+
+You'll be peer reviewing each others' first drafts in class on Thursday. This is a good way to see examples of other students’ approaches to the assignment, as well as to get peer feedback before turning in your final paper. The peer reviews will also be your graded exercise for class that day.
+
+### Final Paper: Due before 11:30pm on Monday, Febuary 10th
+
+The final version of your paper is due by 11:30pm on the date above. Upload an electronic copy of the paper in the myCourses dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.
 
 ## Content & Formatting Requirements
 
