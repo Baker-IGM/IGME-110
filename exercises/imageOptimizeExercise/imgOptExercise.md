@@ -6,7 +6,6 @@ If you do not finish in class and do not already own a copy of Photoshop for you
 
 Before you begin, you'll need to download and extract the image files in [imageOpt.zip](imageOpt.zip).
 
-
 ## Part 1: Color Models
 
 1.  From the archive you just downloaded, open the file Sunflower150.jpg in Photoshop.
@@ -32,7 +31,6 @@ Before you begin, you'll need to download and extract the image files in [imageO
 
 11. Close this file. (You don’t need to save any changes.) We’re done with it.
 
-
 ## Part 2: Color Depth and Palettes
 
 In the previous section we changed color modes, which indirectly changed the color palettes available (as you should remember from lecture, CMYK and RGB have overlapping but different palettes of colors, while grayscale and bitmap use only variations on black and white).
@@ -46,6 +44,7 @@ In this part of the exercise, you’ll be working more directly with palettes, p
 3.  From the Image > Mode menu, select Indexed Color.
 
 4.  In the dialog box, try the following, noting the changes in the image (in particular, observe any changes to the gradients in the hammer):
+
     -   Change the Dither from Diffusion to Pattern to None.
     -   Change Color Depth to 32 colors. What happens to the axe blade?
     -   Change the Dither back to Diffusion. What happens now? (Try zooming in so you can see the pixels more clearly.)
@@ -58,7 +57,6 @@ In this part of the exercise, you’ll be working more directly with palettes, p
 
 Close the original webcartoon.psd file.
 
-
 ## Part 3: Compression and File Types
 
 The three file types you'll be working with the most in interactive media are GIF, JPEG and PNG. This was covered in the readings for this week, but you can also read through the [“Image File Formats” Wikipedia article](https://en.wikipedia.org/wiki/Image_file_formats) for a review of how they differ.
@@ -68,7 +66,7 @@ The three file types you'll be working with the most in interactive media are GI
 2.  Select File->Export->Save for Web (Legacy), and choose “4-Up” on the tab at the top.
 
 3.  Change the zoom level to 200%, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:
-![photoshop zoom example](bijela1.png)
+    ![photoshop zoom example](bijela1.png)
 
 4.  If the image in the top left corner isn't set to "Original", select it and choose "Original" from the presets menu in the top right corner of the panel.
 
@@ -79,7 +77,6 @@ The three file types you'll be working with the most in interactive media are GI
 7.  In the bottom right corner of the panel, change the image size to 50%. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).
 
 Close the original bijela-kava.jpg file.
-
 
 ## Part 4: GIF Compression
 
@@ -95,7 +92,14 @@ To better understand how GIF compression works, we're going to work with the fil
 
 **Without looking at the files on your computer**, can you predict which file (stripes1 or stripes2) is larger, based on our discussions about run length encoding and lossless compression in the lecture? Check to see if you were right!
 
-
 ## Deliverables
 
-Add your webcartoon.gif, bijela-quality, bijela-optimized, stripes1.gif and stripes2.gif files to a folder called `Image Optimization`. Zip that folder and add it to the `Exercise - Image Basics` Assignment on MyCourses.
+Create a zip file named `Image Optimization` that has the following files in it:
+
+-   webcartoon.gif
+-   bijela-quality
+-   bijela-optimized
+-   stripes1.gif
+-   stripes2.gif
+
+Upload the Zip file to the `Exercise - Image Basics` Assignment on MyCourses.
