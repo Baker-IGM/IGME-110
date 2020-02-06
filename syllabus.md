@@ -38,9 +38,9 @@ MyCourses will _only_ be used for grading, quizzes, and submission of assignment
 
 Listening to a lecture is seldom the best way to learn a topic. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials _before_ the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
 
-## [Course Topics & Schedule](Schedule.md)
+## [Course Topics & Schedule](Schedule)
 
-The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the GitHub folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week.
+The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule) file. Materials for in-class exercises can be found in the GitHub folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week.
 
 ## Attendance
 
@@ -54,15 +54,15 @@ These are brief descriptions of each of the assignments. Follow the links to see
 
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise.
 
-### [Research Paper (15% of final grade)](projects/Paper.md)
+### [Research Paper (15% of final grade)](projects/Paper)
 
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
-### Product Box (15% of final grade)
+### [Product Box (15% of final grade)](projects/Layout)
 
 ### Video Trailer (15% of final grade)
 
-### [Presentation (15% of final grade)](/projects/Presentation.md)
+### [Presentation (15% of final grade)](/projects/Presentation)
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
