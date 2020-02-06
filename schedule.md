@@ -152,55 +152,44 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 -   **Readings**
     -   [Pretty Pixels—The importance of visuals in game design](https://medium.com/the-cube/pretty-pixel-the-importance-of-visuals-in-game-design-5f3ae148a41e)
-    -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
-    -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+    -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
+    -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
 
 ### Thursday (2/13)
 
--   **Readings**
-    -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
-    -   [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
-    -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
-    -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
-    -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
--   **[Homework](exercises/compositingExercise/compositingExercise)**
-    -   In this homework you will make a magazine cover using Photoshop.
+-   **Exercise**
+    -   Mood Board
 
 {% include top.html id="week6" content=page.week6 %}
 
 ### Tuesday (2/18)
 
 -   **Readings**
-    -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
-    -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
+    -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+    -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
+    -   [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
+    -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
 
 ### Thursday (2/20)
 
--   **[Exercise](exercises/critiqueExercise/designCritiqueExercise)**
+-   **Exercise**
+    -   Front Cover
+-   **Homework**
+    -   First draft of Back of Box Layout
 
 {% include top.html id="week7" content=page.week7 %}
-
-This week we’ll talk about how the web differs from other types of media, and you'll learn how to create basic web pages using HTML and CSS.
-
-For the Getting Started with the Web articles in this week's readings, make sure you work through the hands-on exercises!
 
 ### Tuesday (2/25)
 
 -   **Readings**
-    -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
-    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-        -   A bit out of date, but the concepts are sound.
+    -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
+    -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
+-   **[Homework](exercises/critiqueExercise/designCritiqueExercise)**
 
 ### Thursday (2/27)
 
--   **Readings**
-
-    -   [MDN: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-    -   [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-
--   **[Homework](exercises/markupExercise/basicMarkupExercise)**
-    -   You'll work through the MDN Introduction to HTML guide, and complete the first assessment projects.
-    -   **Due by class 10/17**
+-   **Exercise**
+    -   Critique of Front + Back of the Box
 
 {% include top.html id="week8" content=page.week8 %}
 
