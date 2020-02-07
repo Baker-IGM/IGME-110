@@ -146,65 +146,51 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 {% include top.html id="week5" content=page.week5 %}
 
-When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter! On Tuesday, we’ll talk about visual design concepts, and on Thursday we'll focus on digital typography.
+When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter!
 
 ### Tuesday (2/11)
 
 -   **Readings**
     -   [Pretty Pixels—The importance of visuals in game design](https://medium.com/the-cube/pretty-pixel-the-importance-of-visuals-in-game-design-5f3ae148a41e)
-    -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
-    -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+    -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
+    -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
+    -   [Microsoft Re-Designs the iPod Packaging](https://youtu.be/EUXnJraKM3k)
 
 ### Thursday (2/13)
 
--   **Readings**
-    -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
-    -   [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
-    -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
-    -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
-    -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
--   **[Homework](exercises/compositingExercise/compositingExercise)**
-    -   In this homework you will make a magazine cover using Photoshop.
+-   **Exercise**
+    -   Mood Board
 
 {% include top.html id="week6" content=page.week6 %}
 
 ### Tuesday (2/18)
 
 -   **Readings**
-    -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
-    -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
+    -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+    -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
+    -   [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
+    -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
 
 ### Thursday (2/20)
 
--   **[Exercise](exercises/critiqueExercise/designCritiqueExercise)**
+-   **Exercise**
+    -   Front Cover
 
 {% include top.html id="week7" content=page.week7 %}
-
-This week we’ll talk about how the web differs from other types of media, and you'll learn how to create basic web pages using HTML and CSS.
-
-For the Getting Started with the Web articles in this week's readings, make sure you work through the hands-on exercises!
 
 ### Tuesday (2/25)
 
 -   **Readings**
-    -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
-    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-        -   A bit out of date, but the concepts are sound.
+    -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
+    -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
+-   **[Homework](exercises/critiqueExercise/designCritiqueExercise)**
 
 ### Thursday (2/27)
 
--   **Readings**
-
-    -   [MDN: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-    -   [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-
--   **[Homework](exercises/markupExercise/basicMarkupExercise)**
-    -   You'll work through the MDN Introduction to HTML guide, and complete the first assessment projects.
-    -   **Due by class 10/17**
+-   **Exercise**
+    -   Critique of Front Cover
 
 {% include top.html id="week8" content=page.week8 %}
-
-We will not have class on Tuesday of this week, because it is a reading day. Make sure you do the readings and exercises before Thursday's class; I'll review the concepts on Thursday, but most of the class will be spent creating an initial layout for your web project.
 
 ### Tuesday (3/3)
 
@@ -214,61 +200,16 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
 
 -   **Readings**
 
--   **[Exercise](exercises/peerCritiqueExercise/webProjectCritique)**
-
-    -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
-    -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
-    -   All you need to provide is a screenshot or exported image.
-    -   In class, we'll do critiques and then start on CSS Homework.
-
--   **[Homework](exercises/cssExercise/cssExercise)**
-    -   **Due by class 10/22**
-
 {% include top.html id="week9" content=page.week9 %}
 
-Once you’ve created your web pages, how do you publish them? We’ll talk about how the Internet and web servers work. You will need to have set up your GitHub account to be able to complete the in-class exercise!
-
 ### Tuesday (3/17)
-
--   **Readings**
-    -   [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
-    -   [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
-    -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
-    -   [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
--   **[Exercise](exercises/ftpExercise/basicMarkupExercise)**
-    -   Due by 10/22 11:59 pm
-
-### Thursday (3/19)
-
--   **Readings**
-    -   [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
--   **Exercise**
-
-{% include top.html id="week10" content=page.week10 %}
-
-### Tuesday (3/24)
-
--   **Readings**
-    -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
-    -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
-    -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
-
-### Thursday (3/26)
-
--   **[Website Project Workday](projects/Website)**
-    -   Due 11/4 by 11:59 pm
-
-{% include top.html id="week11" content=page.week11 %}
-
-### Tuesday (3/31)
 
 -   **Readings**
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
 
-### Thursday (4/2)
+### Thursday (3/19)
 
 -   **Readings**
     -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
@@ -277,30 +218,54 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
     -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
 -   **[Exercise](exercises/audioExercise/audioExercise)**
-    -   In today's exercise you will add audio to a video.
+    -   In today's exercise you will create some sounds with your voice.
 
-{% include top.html id="week12" content=page.week12 %}
+{% include top.html id="week10" content=page.week10 %}
 
-### Tuesday (4/7)
+### Tuesday (3/24)
 
 -   **Readings**
     -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
     -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
-### Thursday (4/9)
+### Thursday (3/26)
 
 -   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be mashing two different video clips into one coherent story.
+
+{% include top.html id="week11" content=page.week11 %}
+
+### Tuesday (3/31)
+
+-   **Readings**
+    -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
+    -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
+    -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
+
+### Thursday (4/2)
+
+-   **Exercise**
+
+{% include top.html id="week12" content=page.week12 %}
+
+### Tuesday (4/7)
+
+-   **Readings**
+    -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
+    -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
+    -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
+
+### Thursday (4/9)
+
+-   **Exercise**
 
 {% include top.html id="week13" content=page.week13 %}
 
 ### Tuesday (4/14)
 
 -   **Readings**
-    -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
-    -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
-    -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
 ### Thursday (4/16)
 
