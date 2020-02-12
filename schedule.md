@@ -159,7 +159,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 ### Thursday (2/13)
 
 -   **Exercise**
-    -   Mood Board
+    -   [Mood Board](projects/Layout#mood-board-due-by-2pm-on-tuesday-febuary-18th)
 
 {% include top.html id="week6" content=page.week6 %}
 
