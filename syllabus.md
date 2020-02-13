@@ -58,7 +58,9 @@ At least once a week there will be an in-class exercise. I will also occasionall
 
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
-### [Product Box (15% of final grade)](projects/Layout)
+### [Layout Project (15% of final grade)](projects/Layout)
+
+For this project you will design a marketing poster for a game, film or show of your choice.
 
 ### Video Trailer (15% of final grade)
 
