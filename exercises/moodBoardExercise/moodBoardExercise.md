@@ -1,6 +1,6 @@
 # Mood Board
 
-Today you will build a mood board for the film, show or game that you have chosen for the [Poster Project](../../projects/layout). You will be using this mood board as a reference guide while you create your Poster.
+Today you will build a mood board for the film, show or game that you have chosen for the [Poster Project](../../projects/Layout). You will be using this mood board as a reference guide while you create your Poster.
 
 ## References
 
