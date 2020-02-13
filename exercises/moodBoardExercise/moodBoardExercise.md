@@ -14,7 +14,7 @@ Today you will build a mood board for the film, show or game that you have chose
     ![board01](board01.jpeg)
 
 -   Example 2
-    ![board02](board02.jpg)
+    ![board02](board05.jpg)
 
 -   Example 3
     ![board03](board03.jpg)
