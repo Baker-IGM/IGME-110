@@ -86,7 +86,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 -   **[Exercise](exercises/infoEvalExercise/infoEvalExercise)**
 
-    -   Play an web game to test how well you can determine real from fake articles.
+    -   Play a web game to test how well you can determine real from fake articles.
 
 ### Thursday (1/23)
 
@@ -159,7 +159,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 ### Thursday (2/13)
 
 -   **Exercise**
-    -   [Mood Board](projects/Layout#mood-board-due-by-2pm-on-tuesday-febuary-18th)
+    -   [Mood Board](exercises/moodBoardExercise/moodBoardExercise)
 
 {% include top.html id="week6" content=page.week6 %}
 
