@@ -233,7 +233,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 -   **Readings**
     -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
-    -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
+    -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
 ### Thursday (3/26)
 
@@ -247,7 +247,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 -   **Readings**
     -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
     -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
-    -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
+    -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
 ### Thursday (4/2)
 
