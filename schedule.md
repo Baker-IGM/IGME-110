@@ -212,8 +212,10 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 -   **Readings**
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
-    -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
+    -   [Digital Audio](https://csound-floss.firebaseapp.com/basics/digital-audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
+    -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
+    -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
 
 ### Thursday (3/19)
 
@@ -221,8 +223,6 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
-    -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
-    -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
 -   **[Exercise](exercises/audioExercise/audioExercise)**
     -   In today's exercise you will create some sounds with your voice.
 
