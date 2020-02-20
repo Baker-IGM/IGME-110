@@ -173,8 +173,10 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 ### Thursday (2/20)
 
--   **Exercise**
-    -   Front Cover
+-   **Design Poster**
+    -   Work on the layout for your Poster
+    -   Next week you will get in your groups to critique each other's Posters
+    -   Submit your desgin to `First Poster Desgin` assignment folder on myCourses
 
 {% include top.html id="week7" content=page.week7 %}
 
@@ -188,17 +190,21 @@ When creating interactive media--whether it's a website, a game, or an applicati
 ### Thursday (2/27)
 
 -   **Exercise**
-    -   Critique of Front Cover
+    -   Critique of Poster
 
 {% include top.html id="week8" content=page.week8 %}
 
 ### Tuesday (3/3)
 
--   **Readings**
+-   **Workday**
+    -   Work on incorporating the feedback you received from your group
+    -   The final Poster is due **March 16th at 11:30 PM**
 
 ### Thursday (3/5)
 
--   **Readings**
+-   **Tour of MAGIC**
+    -   We will go on a tour of MAGIC
+    -   **MAKE SURE TO GET TO CLASS ON TIME**
 
 {% include top.html id="week9" content=page.week9 %}
 
