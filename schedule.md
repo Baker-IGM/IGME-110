@@ -185,11 +185,11 @@ When creating interactive media--whether it's a website, a game, or an applicati
 -   **Readings**
     -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
     -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
--   **[Homework](exercises/critiqueExercise/designCritiqueExercise)**
+-   **[Homework](exercises/critiqueExercise/webDesignCritiqueExercise)**
 
 ### Thursday (2/27)
 
--   **Exercise**
+-   **[Exercise](exercises/critiqueExercise/designCritiqueExercise)**
     -   Critique of Poster
 
 {% include top.html id="week8" content=page.week8 %}
