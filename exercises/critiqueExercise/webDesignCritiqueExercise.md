@@ -19,7 +19,7 @@ The goal of this exercise is to critique the visual design of a website, and to 
 
 ## Site Selection and Critique Process
 
-1.  Picking a genre of web site from the list below.
+1.  Pick a genre of web site. You may choose from the list below or come up with your own.
 
     -   government agency
     -   university
