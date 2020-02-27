@@ -22,12 +22,10 @@ You'll be doing this exercise in your note-taking groups, critiquing each person
 
 ## Deliverables
 
-1.  The initial versioin of your poster.
+Create a process document that includes the following components:
 
-2.  Create a process document that includes the following components:
-
-    -   A description of the process you used to create your cover, make sure to address the design goals
-    -   An explanation of how the critique process shaped your revisions.
-    -   Your critique notes for each of the covers your group reviewed
+-   A description of the process you used to create your cover, make sure to address the design goals
+-   An explanation of how the critique process shaped your revisions.
+-   Your critique notes for each of the covers your group reviewed
 
 Submit all of three files to the `Exercise - Critique` assignments dropbox in myCourses by the assigned due date.
