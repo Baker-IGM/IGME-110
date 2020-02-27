@@ -12,8 +12,25 @@ The first deliverable is for you to build a mood board that fully captures the t
 
 ### First Draft of Poster: Due by {{ site.classStartTime }} on Tuesday, Febuary 25th
 
+Using your mood moard create an initial design of your Poster. The goal of this Poster is to get the viewer interested in wanting the product shown. Make sure to include the title and any information relevate about uptaining the product(release date, platforms for games, special offers). Beyond that you are free to do whatever you think is best for your Poster.
+
 ### Critique of Poster: Due by 11:30pm on Thursday, Febuary 27th
+
+You will work with your note taking groups to critique each other's Poster desgins. Each of you will have to take notes on feedbcak you receive during the critique that you will turn in as part of this assignment. You will also need to write up a description of what you will be based off the feedback you received.
 
 ### Revised Draft of Poster: Due by 11:30pm on Monday, March 16th
 
+You will make modifications of your original Poster design based on the feedback you received from the critique exercise.
+
 ## Final Poster Rubric
+
+| Criteria              | Description                                                                                                                                                                                                   | Points |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Goal Clearity         | Is it obvious what this Poster is trying to do?                                                                                                                                                               | 10     |
+| Goal Effectiveness    | Does the Poster get the view interested in the product?                                                                                                                                                       | 10     |
+| Expression Coherence  | Does the design match existing materials for the IP?                                                                                                                                                          | 10     |
+| Expression            |                                                                                                                                                                                                               | 10     |
+| Alignment Gestalts    | Are the elements of the Poster aligned using gestalts: forming continuous lines and closed shapes through similar appearance, chunking (putting things that belong to each other close together), and a grid. | 10     |
+| Alignment Consistency | Maintain consistency across shape, color, texture, imagery, arrangement, etc. Deviate from it only to support your goal.                                                                                      | 10     |
+| Reduction             | Uses the smallest effective difference mark a difference, or establish visual hierarchy. Has no unnessacary elements.                                                                                                                                                                  | 20     |
+| Stress                | Establishes a clear visual hierarchy and view path.                                                                                                                                                                         | 20     |
