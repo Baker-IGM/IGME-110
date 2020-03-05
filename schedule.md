@@ -205,8 +205,8 @@ When creating interactive media--whether it's a website, a game, or an applicati
 -   **Tour of MAGIC**
     -   We will go on a tour of MAGIC
     -   **MAKE SURE TO GET TO CLASS ON TIME**
--  **[Poster Project](projects/Layout)**
-    - **Due by March 16th at 11:30 PM**
+-   **[Poster Project](projects/Layout)**
+    -   **Due by March 16th at 11:30 PM**
 
 {% include top.html id="week9" content=page.week9 %}
 
