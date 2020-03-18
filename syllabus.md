@@ -54,17 +54,15 @@ These are brief descriptions of each of the assignments. Follow the links to see
 
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise.
 
-### [Research Paper (15% of final grade)](projects/Paper)
+### [Research Paper (20% of final grade)](projects/Paper)
 
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
-### [Layout Project (15% of final grade)](projects/Layout)
+### [Layout Project (20% of final grade)](projects/Layout)
 
 For this project you will design a marketing poster for a game, film or show of your choice.
 
-### Video Trailer (15% of final grade)
-
-### [Presentation (15% of final grade)](/projects/Presentation)
+### [Presentation (20% of final grade)](/projects/Presentation)
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
