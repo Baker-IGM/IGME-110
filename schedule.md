@@ -10,13 +10,12 @@
   week6: "Week 6 (2/17): Layout & Composition"
   week7: "Week 7 (2/24): Critique"
   week8: "Week 8 (3/2): TBA"
-  week9: "Week 9 (3/16): Digital Audio"
-  week10: "Week 10 (3/23): Digital Video"
-  week11: "Week 11 (3/30): Film Editing"
-  week12: "Week 12 (4/6): Accessibility"
-  week13: "Week 13 (4/13): Media is the Message"
-  week14: "Week 14 (4/20): Conclusions"
-  final: "Finals Week (5/5): Final Presentations"
+  week9: "Week 9 (3/23): Digital Audio"
+  week10: "Week 10 (3/30): Digital Video"
+  week11: "Week 11 (4/6): Film Editing"
+  week12: "Week 12 (4/13): Accessibility"
+  week14: "Week 13 (4/20): Conclusions"
+  final: "Finals Week: Final Presentations"
 ---
 
 # Schedule of Topics
@@ -36,7 +35,6 @@
 -   [{{ page.week11 }}](#week11)
 -   [{{ page.week12 }}](#week12)
 -   [{{ page.week13 }}](#week13)
--   [{{ page.week14 }}](#week14)
 -   [{{page.final}}](#final)
 
 {% include top.html id="week1" content=page.week1 %}
@@ -210,82 +208,55 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 {% include top.html id="week9" content=page.week9 %}
 
-### Tuesday (3/17)
-
 -   **Readings**
+
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Digital Audio](https://csound-floss.firebaseapp.com/basics/digital-audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
     -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
     -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
-
-### Thursday (3/19)
-
--   **Readings**
     -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
+
 -   **[Exercise](exercises/audioExercise/audioExercise)**
     -   In today's exercise you will create some sounds with your voice.
 
 {% include top.html id="week10" content=page.week10 %}
 
-### Tuesday (3/24)
-
 -   **Readings**
+
     -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
     -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
-
-### Thursday (3/26)
 
 -   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be mashing two different video clips into one coherent story.
 
 {% include top.html id="week11" content=page.week11 %}
 
-### Tuesday (3/31)
-
 -   **Readings**
+
     -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
     -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
     -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
-
-### Thursday (4/2)
 
 -   **Exercise**
 
 {% include top.html id="week12" content=page.week12 %}
 
-### Tuesday (4/7)
-
 -   **Readings**
+
     -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
     -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
     -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
     -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
 
-### Thursday (4/9)
-
 -   **Exercise**
 
 {% include top.html id="week13" content=page.week13 %}
 
-### Tuesday (4/14)
-
--   **Readings**
-
-### Thursday (4/16)
-
--   **Exercise**
-
-{% include top.html id="week14" content=page.week14 %}
-
 This week we’ll discuss the importance of good presentation skills, and look at examples of effective short-form presentations.
-
-If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own.
-
-### Tuesday (4/21)
 
 -   **Readings**
 
@@ -294,26 +265,8 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
     -   [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
     -   [How to sound smart in your TEDx Talk](https://youtu.be/8S0FDjFBj8o)
 
--   **Upperclassmen Panel**
-    -   Several upperclassmen will be running the class today
-    -   They will each give a short talk
-    -   Throughout you are free to ask any questions you might have (I highly recommend you do)
-
-### Thursday (4/23)
-
--   **Work Day**
-    -   Today is a workday to work on your final presentation.
-
 {% include top.html id="final" content=page.final %}
 
 ### [Final Presentation](projects/Presentation)
 
 ![Presentation](http://carbonpig.com/wp-content/uploads/2018/08/Top-tips-for-effective-presentations-e1535692186850.jpeg)
-
--   When
-    -   5/5
-    -   10:45 AM - 1:15 PM
--   Where
-    -   Orange Hall(ORN)
-    -   1380
-    -   Where we have class
