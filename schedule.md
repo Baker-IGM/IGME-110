@@ -14,7 +14,7 @@
   week10: "Week 10 (3/30): Digital Video"
   week11: "Week 11 (4/6): Film Editing"
   week12: "Week 12 (4/13): Accessibility"
-  week14: "Week 13 (4/20): Conclusions"
+  week13: "Week 13 (4/20): Conclusions"
   final: "Finals Week: Final Presentations"
 ---
 
