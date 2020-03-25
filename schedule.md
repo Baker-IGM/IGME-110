@@ -219,7 +219,14 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
         -   Only necessary if you want to do the tutorial on your own computer.
 
+-   **Videos from Lecture**
+
+    -   [Digital Audio Explained](https://www.youtube.com/watch?v=BNVVq-iVPy8)
+    -   [Audio & Video Codecs Explained](https://www.youtube.com/watch?v=GhWki9a7s18)
+    -   [Adaptive Soundtracks](https://youtu.be/b0gvM4q2hdI)
+
 -   **[Exercise](exercises/audioExercise/audioExercise)**
+
     -   In today's exercise you will create some sounds with your voice.
 
 {% include top.html id="week10" content=page.week10 %}
