@@ -254,12 +254,12 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 -   **Readings**
 
+    -   [Designing for disability](https://www.youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR)
+        -   This is a playlist of videos we would have watched in class
     -   [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
     -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
     -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
     -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
-
--   **Exercise**
 
 {% include top.html id="week13" content=page.week13 %}
 
