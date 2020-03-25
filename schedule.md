@@ -237,6 +237,12 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
     -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
+-   **Videos from Lecture**
+
+    -   [The Invention of Cinema (1888 to 1914)](https://youtu.be/zH0VCY5CYQQ)
+    -   [How Does an Editor Think and Feel?](https://youtu.be/3Q3eITC01Fg)
+    -   [Saving Private Ryan: How Spielberg Constructs A Battle Scene](https://youtu.be/LFpki7v4xiI)
+
 -   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be mashing two different video clips into one coherent story.
 
