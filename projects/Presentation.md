@@ -18,19 +18,13 @@ Your slides should focus on images and storytelling, not blocks of text or bulle
 
 ## Submitting and Presenting Your Presentation
 
-Your presentation must be submitted to the dropbox in myCourses at least 24 hours before our final exam time.
-
-If you plan to present in person during finals week, only your slides need to be submitted. I will load the presentations on my computer, so that there is no setup delay between presenters.
-
-If you will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration. If you submit a narrated version, the auto-advance timings _must_ still work properly, and the sound must be clear and properly synchronized. (That's harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you're sure it will work on mine.)
+Your presentation must be submitted to the dropbox in myCourses by **11:59 PM on Sunday, May 3rd**. You must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration. If you submit a narrated version, the auto-advance timings _must_ still work properly, and the sound must be clear and properly synchronized. (That's harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you're sure it will work on mine.)
 
 ## Grading Rubric
 
-| Criteria                    | Points | Describtion                                                                                                                       |
-| --------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| Topics Coverd               | 10     | How many topics did you cover?                                                                                                    |
-| Audio smooth & well-paced   | 2      | Can someone easily understand what you are say?<br>Are there any obvious cuts in the audio?<br>**Only applies to prerecorded video.** |
-| Auto-advance works properly | 2      | Do the slides auto advvance?<br>All or nothing.<br>**Only applies to live presentation.**                                             |
-| Good slide design           | 4      | Is there a clear visual hirarchy?<br>Is text easy to read?                                                                        |
-| Consistent slide design     | 2      | Do all the slides clearly belong together?                                                                                        |
-| Coherent narrative          | 2      | Are the slides ordered in a way that makes sense?                                                                                 |
+| Criteria                | Points | Describtion                                                |
+| ----------------------- | ------ | ---------------------------------------------------------- |
+| Topics Coverd           | 10     | How many topics did you cover?                             |
+| Good slide design       | 4      | Is there a clear visual hirarchy?<br>Is text easy to read? |
+| Consistent slide design | 4      | Do all the slides clearly belong together?                 |
+| Coherent narrative      | 2      | Are the slides ordered in a way that makes sense?          |
