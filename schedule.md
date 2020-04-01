@@ -254,8 +254,6 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
     -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
--   **Exercise**
-
 {% include top.html id="week12" content=page.week12 %}
 
 -   **Readings**
