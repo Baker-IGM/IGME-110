@@ -62,7 +62,7 @@ For your research paper, you will need to select a topic related to interactive 
 
 For this project you will design a marketing poster for a game, film or show of your choice.
 
-### [Presentation (20% of final grade)](/projects/Presentation)
+### [Presentation (20% of final grade)](projects/Presentation)
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
