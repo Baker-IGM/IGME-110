@@ -5,7 +5,17 @@ plugins:
 
 title:        IGME 110
 description:  Introduction to Interactive Media
+semesterAddDropDate: TBA
+semesterWithdrawDate: TBA
 
-
-discordInvite:  "https://discord.gg/sBnBTyr"
-classStartTime: "2pm"
+profName: YOUR NAME
+profOffice: TBA
+profEmail: TBA
+officeHours: TBA
+sectionNumber: "##"
+semesterCode: "#2###"
+sectionStartTime: TBA
+sectionEndTime: TBA
+sectionClassroom: TBA
+discordInvite:  TBA
+classStartTime: 2pm
