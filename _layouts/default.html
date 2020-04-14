@@ -1,14 +1,20 @@
-{% assign homeNav = "" %}
 {% assign syllabusNav = "" %}
 {% assign scheduleNav = "" %}
+{% assign paperNav = "" %}
+{% assign layoutNav = "" %}
+{% assign presentationNav = "" %}
 
 <!--  Home Nav -->
-{% if page.nav == "home" %}
-    {% assign homeNav = "active" %}
-{% elsif page.nav == "syllabus" %}
+{% if page.nav == "syllabus" %}
     {% assign syllabusNav = "active" %}
 {% elsif page.nav == "schedule" %}
     {% assign scheduleNav = "active" %}
+{% elsif page.nav == "paper" %}
+    {% assign paperNav = "active" %}
+{% elsif page.nav == "layout" %}
+    {% assign layoutNav = "active" %}
+{% elsif page.nav == "presentation" %}
+    {% assign presentationNav = "active" %}
 {% endif %}
 
 <!DOCTYPE html>
@@ -38,14 +44,20 @@
 
           <nav>
             <ul>
-              <li class="{{ homeNav }}">
-                <a href="{{ '/' | relative_url }}">Home</a>
-              </li>
               <li class="{{ syllabusNav }}">
                 <a href="{{ '/syllabus' | relative_url }}">Syllabus</a>
               </li>
               <li class="{{ scheduleNav }}">
                 <a href="{{ '/schedule' | relative_url }}">Schedule</a>
+              </li>
+              <li class="{{ paperNav }}">
+                <a href="{{ '/projects/Paper' | relative_url }}">Paper</a>
+              </li>
+              <li class="{{ layoutNav }}">
+                <a href="{{ '/projects/Layout' | relative_url }}">Layout</a>
+              </li>
+              <li class="{{ presentationNav }}">
+                <a href="{{ '/projects/Presentation' | relative_url }}">Presentation</a>
               </li>
             </ul>
           </nav>

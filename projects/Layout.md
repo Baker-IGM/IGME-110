@@ -1,3 +1,8 @@
+---
+  title: Layout Project
+  nav: layout
+---
+
 # Poster Project
 
 In this assignment, you will design a marketing poster for a game, movie or show of your choice.
