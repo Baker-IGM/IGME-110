@@ -1,3 +1,8 @@
+---
+  title: Research Paper
+  nav: paper
+---
+
 # Research Paper
 
 In this assignment, you will select a topic related to interactive media, identify or formulate what effect it has had, find supporting evidence for your argument, and write a 5-7 page paper on the topic.

@@ -1,3 +1,8 @@
+---
+  title: Final Presentation
+  nav: presentation
+---
+
 # Final Presentation
 
 This assignment is intended to provide some closure and perspective on the overall content for this course. I believe this is more effective in helping you review and understand the material for the course than a traditional final exam.
